@@ -1,51 +1,92 @@
 <div align="center">
-  <h1>Hola 👋 soy Henry Becerra (HenryBecerra-Dev) ✨</h1>
-  <p>🎓 <b>Ingeniero de Sistemas</b> | 💻 <b>Desarrollador Full-Stack</b></p>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/henry-jose-becerra-im%C3%A1n-804808240/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:henryjosebecerraiman530@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  </p>
+
+# 👋 ¡Hola! Soy Henry Becerra
+
+### 💻 Ingeniero de Sistemas | Full Stack Developer
+
+Apasionado por crear aplicaciones web modernas, escalables y de alto rendimiento.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henry_Becerra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-jose-becerra-im%C3%A1n-804808240/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henryjosebecerraiman530@gmail.com)
+
 </div>
 
-<br />
+---
 
-## 😃 Sobre mí
+# 🚀 Sobre mí
 
-¡Hola! Soy Ingeniero de Sistemas apasionado por construir soluciones tecnológicas eficientes, escalables y con código limpio. Me enfoco en el desarrollo de software tanto en el Frontend como en el Backend, aplicando arquitecturas sólidas para resolver problemas del mundo real.
+Soy **Ingeniero de Sistemas** enfocado en el desarrollo de software Full Stack.
 
-* 🎯 **Enfoque actual:** Perfeccionamiento en arquitectura limpia, patrones de diseño (MVC) y optimización de bases de datos.
-* 📫 **Contacto directo:** [henryjosebecerraiman530@gmail.com](mailto:henryjosebecerraiman530@gmail.com)
+Me gusta desarrollar soluciones eficientes utilizando buenas prácticas de programación, arquitecturas limpias y bases de datos optimizadas.
 
-<br />
+Actualmente continúo fortaleciendo mis conocimientos en:
 
-## 👨🏻‍💻 Tecnologías y Herramientas
+- 🏗️ Arquitectura de Software
+- 📐 Clean Architecture
+- 🎯 Patrones de Diseño
+- 🐳 Docker
+- ⚙️ APIs REST
+- ☁️ Despliegue de aplicaciones
 
-<div align=center>
-   <h3>Frontend</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,astro,tailwind&theme=light" />
-  </a>
-  <h3>Backend</h3>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,php,mysql,postgres,docker&theme=light" />
-  </a>
-    <h3>Tools</h3>
-     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
-  </a>
-  </div>
-<br>
+---
 
-<br />
+# 🛠 Tecnologías
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,astro" />
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,php,mysql,postgres,docker" />
+</p>
+
+## Herramientas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=HenryBecerra-Dev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=HenryBecerra-Dev&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryBecerra-Dev&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🔹 Sistema de Ventas | Plataforma para la gestión de ventas y clientes | Java · MySQL |
+| 🔹 API REST | API para administración de usuarios | Java · Spring Boot |
+| 🔹 Landing Page | Sitio web moderno y responsivo | Astro · Tailwind |
+
+*(Actualiza esta sección con tus mejores repositorios.)*
+
+---
+
+# 📫 Contacto
+
+- 📧 **Email:** **henryjosebecerraiman530@gmail.com**
+- 💼 **LinkedIn:** https://linkedin.com/in/henry-jose-becerra-im%C3%A1n-804808240
 
 ---
 
 <div align="center">
-  <p>👨‍💻 Desarrollado por <a href="https://github.com/jos232004">jos232004</a></p>
-</div>
 
+### ⭐ Siempre aprendiendo, siempre construyendo.
+
+</div>
