@@ -25,26 +25,21 @@
 
 ## 👨🏻‍💻 Tecnologías y Herramientas
 
-<div align="center">
-  <h3><b>Frontend</b></h3>
+<div align=center>
+   <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,astro,tailwind&theme=light" />
   </a>
-
-  <br /><br />
-
-  <h3><b>Backend & Bases de Datos</b></h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Backend Skills" />
+  <h3>Backend</h3>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,java,php,mysql,postgres,docker&theme=light" />
   </a>
-
-  <br /><br />
-
-  <h3><b>Herramientas & DevOps</b></h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Tools" />
+    <h3>Tools</h3>
+     <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
   </a>
-</div>
+  </div>
+<br>
 
 <br />
 
@@ -53,3 +48,4 @@
 <div align="center">
   <p>👨‍💻 Desarrollado por <a href="https://github.com/jos232004">jos232004</a></p>
 </div>
+
